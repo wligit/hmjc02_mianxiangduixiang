@@ -1,2 +1,2 @@
 # hmjc02_mianxiangduixiang
-面向对象
+黑马基础02_面向对象
